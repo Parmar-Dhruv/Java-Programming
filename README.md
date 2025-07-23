@@ -1,2 +1,2 @@
 # Java-Programming
-Fundamentals of Java
+You can find useful Java code resourses here
